@@ -1,1 +1,2 @@
-This repo consists of my notes and exercises from Udemy Data Science Bootcamp. 
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
